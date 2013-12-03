@@ -25,7 +25,15 @@ Values
       <td>250 200 200</td>
       <td>0 20 98</td>
       <td>85 18 7</td>
-      <td>0 26 12 0</td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>26</td>
+            <td>12</td>
+            <td>0</td>
+          </tr>
+        </table>
     </tr>
     <tr>
       <td>redLighter</td>
