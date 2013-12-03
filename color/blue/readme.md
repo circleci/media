@@ -2,7 +2,7 @@ Blue
 ===
 ![image](blueDarkest.png)
 
-<h2 style="margin-top: -2em; color: white;">testing</h2>
+<span style="margin-top: -2em; color: white;">testing</span>
 
 <table style="width: 100%;">
     <tr>
