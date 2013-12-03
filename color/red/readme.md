@@ -16,7 +16,6 @@ Values
       <th>HEX</th>
       <th>RGB</th>
       <th>HSB</th>
-      <th>LAB</th>
       <th>CMYK</th>
     </tr>
     <tr>
@@ -37,15 +36,6 @@ Values
             <td>0</td>
             <td>20</td>
             <td>98</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>85</td>
-            <td>18</td>
-            <td>7</td>
           </tr>
         </table>
       </td>
@@ -78,15 +68,6 @@ Values
             <td>0</td>
             <td>60</td>
             <td>87</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>56</td>
-            <td>53</td>
-            <td>29</td>
           </tr>
         </table>
       </td>
