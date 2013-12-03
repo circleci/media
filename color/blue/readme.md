@@ -16,7 +16,6 @@ Values
       <th>HEX</th>
       <th>RGB</th>
       <th>HSB</th>
-      <th>LAB</th>
       <th>CMYK</th>
     </tr>
     <tr>
