@@ -69,8 +69,8 @@ Values
         <table>
           <tr>
             <td>223</td>
-            <td>&emsp;89</td>
-            <td>&emsp;89</td>
+            <td>89</td>
+            <td>89</td>
           </tr>
         </table>
       </td>
@@ -172,23 +172,116 @@ Values
     </tr>
     <tr>
       <td>redDark</td>
-      <td>741515</td>
-      <td>116 21 21</td>
-      <td>0 82 45</td>
-      <td>31 98 97 43</td>
+      <td>
+        <table>
+          <tr>
+            <td>741515</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>116</td>
+            <td>21</td>
+            <td>21</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>82</td>
+            <td>45</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>31</td>
+            <td>98</td>
+            <td>97</td>
+            <td>43</td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>redDarker</td>
-      <td>550D0D</td>
-      <td>85 13 13</td>
-      <td>0 85 33</td>
-      <td>39 91 84 61</td>
+      <td>
+        <table>
+          <tr>
+            <td>550D0D</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>85</td>
+            <td>13</td>
+            <td>13</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>85</td>
+            <td>33</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>39</td>
+            <td>91</td>
+            <td>84</td>
+            <td>61</td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>redDarkest</td>
-      <td>2B0505</td>
-      <td>43 5 5</td>
-      <td>0 88 17</td>
-      <td>55 77 69 80</td>
+      <td>
+        <table>
+          <tr>
+            <td>2B0505</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>43</td>
+            <td>5</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>88</td>
+            <td>17</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>55</td>
+            <td>77</td>
+            <td>69</td>
+            <td>80</td>
+          </tr>
+        </table>
+      </td>
     </tr>
 </table>
