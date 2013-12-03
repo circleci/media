@@ -20,12 +20,44 @@ Values
       <th>CMYK</th>
     </tr>
     <tr>
-      <td>blueDarkest</td>
-      <td>002632</td>
-      <td>0 38 50</td>
-      <td>194 100 20</td>
-      <td>13 -10 -12</td>
-      <td>93 70 56 63</td>
+      <td>blueLightest</td>
+      <td>C8FAFA</td>
+      <td>200 250 250</td>
+      <td>180 20 98</td>
+      <td>95 -16 -6</td>
+      <td>18 0 5 0</td>
+    </tr>
+    <tr>
+      <td>blueLighter</td>
+      <td>00BAFA</td>
+      <td>0 186 250</td>
+      <td>195 100 98</td>
+      <td>70 -23 -43</td>
+      <td>65 8 0 0</td>
+    </tr>
+    <tr>
+      <td>blueLight</td>
+      <td>0096C8</td>
+      <td>0 150 200</td>
+      <td>195 100 78</td>
+      <td>57 -20 -36</td>
+      <td>79 26 7 0</td>
+    </tr>
+    <tr>
+      <td>blue</td>
+      <td>007196</td>
+      <td>0 113 150</td>
+      <td>195 100 59</td>
+      <td>44 -17 -28</td>
+      <td>90 48 26 4</td>
+    </tr>
+    <tr>
+      <td>blueDark</td>
+      <td>004B64</td>
+      <td>0 75 100</td>
+      <td>195 100 39</td>
+      <td>29 -13 -21</td>
+      <td>97 65 42 26</td>
     </tr>
     <tr>
       <td>blueDarker</td>
@@ -36,11 +68,11 @@ Values
       <td>98 69 49 43</td>
     </tr>
     <tr>
-      <td>blueDark</td>
-      <td>004B64</td>
-      <td>0 75 100</td>
-      <td>195 100 39</td>
-      <td>29 -13 -21</td>
-      <td>97 65 42 26</td>
+      <td>blueDarkest</td>
+      <td>002632</td>
+      <td>0 38 50</td>
+      <td>194 100 20</td>
+      <td>13 -10 -12</td>
+      <td>93 70 56 63</td>
     </tr>
 </table>
