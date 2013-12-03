@@ -12,7 +12,7 @@ Values
 
 <table>
     <tr>
-      <th>Color</th>
+      <th>NAME</th>
       <th>HEX</th>
       <th>RGB</th>
       <th>HSB</th>
@@ -20,268 +20,51 @@ Values
     </tr>
     <tr>
       <td>redLightest</td>
-      <td>
-        <table>
-          <tr>
-            <td>FAC8C8</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 250 </td>
-            <td> 200 </td>
-            <td> 200 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 20 </td>
-            <td> 98 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 26 </td>
-            <td> 12 </td>
-            <td>  0 </td>
-          </tr>
-        </table>
-      </td>
+      <td>FAC8C8</td>
+      <td>250 200 200</td>
+      <td>0 20 98</td>
+      <td>0 26 12 0</td>
     </tr>
     <tr>
       <td>redLighter</td>
-      <td>
-        <table>
-          <tr>
-            <td>DF5959</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 223 </td>
-            <td>  89 </td>
-            <td>  89 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 60 </td>
-            <td> 87 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  8 </td>
-            <td> 80 </td>
-            <td> 62 </td>
-            <td>  1 </td>
-          </tr>
-        </table>
-      </td>
+      <td>DF5959</td>
+      <td>223 89 89</td>
+      <td>0 60 87</td>
+      <td>8 80 62 1</td>
     </tr>
     <tr>
       <td>redLight</td>
-      <td>
-        <table>
-          <tr>
-            <td>C13737</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 193 </td>
-            <td>  55 </td>
-            <td>  55 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 72 </td>
-            <td> 76 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 17 </td>
-            <td> 92 </td>
-            <td> 84 </td>
-            <td>  6 </td>
-          </tr>
-        </table>
-      </td>
+      <td>C13737</td>
+      <td>193 55 55</td>
+      <td>0 72 76</td>
+      <td>17 92 84 6</td>
     </tr>
     <tr>
       <td>red</td>
-      <td>
-        <table>
-          <tr>
-            <td>992222</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 153 </td>
-            <td>  34 </td>
-            <td>  34 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 78 </td>
-            <td> 60 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 26 </td>
-            <td> 97 </td>
-            <td> 96 </td>
-            <td> 23 </td>
-          </tr>
-        </table>
-      </td>
+      <td>992222</td>
+      <td>153 34 34</td>
+      <td>0 78 60</td>
+      <td>26 97 96 23</td>
     </tr>
     <tr>
       <td>redDark</td>
-      <td>
-        <table>
-          <tr>
-            <td>741515</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 116 </td>
-            <td>  21 </td>
-            <td>  21 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 82 </td>
-            <td> 45 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 31 </td>
-            <td> 98 </td>
-            <td> 97 </td>
-            <td> 43 </td>
-          </tr>
-        </table>
-      </td>
+      <td>741515</td>
+      <td>116 21 21</td>
+      <td>0 82 45</td>
+      <td>31 98 97 43</td>
     </tr>
     <tr>
       <td>redDarker</td>
-      <td>
-        <table>
-          <tr>
-            <td>550D0D</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 85 </td>
-            <td> 13 </td>
-            <td> 13 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 85 </td>
-            <td> 33 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 39 </td>
-            <td> 91 </td>
-            <td> 84 </td>
-            <td> 61 </td>
-          </tr>
-        </table>
-      </td>
+      <td>550D0D</td>
+      <td>85 13 13</td>
+      <td>0 85 33</td>
+      <td>39 91 84 61</td>
     </tr>
     <tr>
       <td>redDarkest</td>
-      <td>
-        <table>
-          <tr>
-            <td>2B0505</td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 43 </td>
-            <td>  5 </td>
-            <td>  5 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>  0 </td>
-            <td> 88 </td>
-            <td> 17 </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td> 55 </td>
-            <td> 77 </td>
-            <td> 69 </td>
-            <td> 80 </td>
-          </tr>
-        </table>
-      </td>
+      <td>2B0505</td>
+      <td>43 5 5</td>
+      <td>0 88 17</td>
+      <td>55 77 69 80</td>
     </tr>
 </table>
