@@ -10,7 +10,7 @@ Red
 Values
 ===
 
-<table style="width: 100%; margin-top: -2em;">
+<table>
     <tr>
       <th>Color</th>
       <th>HEX</th>
