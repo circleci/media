@@ -3,8 +3,8 @@ Blue
 ![image](blueDarkest.png)
 <table style="width: 100%; margin-top: -2em;">
     <tr>
-        <td>Foo</td>
-        <td>Doo</td>
+        <td>HEX: 002632</td>
+        <td>R:0 G:38 B:50</td>
     </tr>
 </table>
 
