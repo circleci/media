@@ -1,9 +1,4 @@
-Light
-===
-![image](build/horizontal_light.1.png)
-
-
-Light
+Logo
 ===
 
 <table>
