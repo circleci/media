@@ -16,25 +16,25 @@ Logo
   </tr>
   <tr>
     <td>Light</td>
-    <td><img src="build/horizontal_light.1.png"/></td>
-    <td><img src="build/stacked_light.1.png"/></td>
+    <td><img src="logo/build/horizontal_light.1.png"/></td>
+    <td><img src="logo/build/stacked_light.1.png"/></td>
   </tr>
   <tr>
     <td>Dark</td>
-    <td><img src="build/horizontal_dark.1.png"/></td>
-    <td><img src="build/stacked_dark.1.png"/></td>
+    <td><img src="logo/build/horizontal_dark.1.png"/></td>
+    <td><img src="logo/build/stacked_dark.1.png"/></td>
   </tr>
 </table>
 
 Colors
 ---
-![image](blueLightest.png)
-![image](blueLighter.png)
-![image](blueLight.png)
-![image](blue.png)
-![image](blueDark.png)
-![image](blueDarker.png)
-![image](blueDarkest.png)
+![image](color/blue/blueLightest.png)
+![image](color/blue/blueLighter.png)
+![image](color/blue/blueLight.png)
+![image](color/blue/blue.png)
+![image](color/blue/blueDark.png)
+![image](color/blue/blueDarker.png)
+![image](color/blue/blueDarkest.png)
 
 <table style="width: 100%; margin-top: -2em;">
   <tr>
