@@ -12,7 +12,7 @@ Values
 
 <table>
     <tr>
-      <th>NAME</th>
+      <th></th>
       <th>HEX</th>
       <th>RGB</th>
       <th>HSB</th>
