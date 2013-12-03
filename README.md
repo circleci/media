@@ -167,13 +167,6 @@ Colors
     <td>93 70 56 63</td>
   </tr>
   <tr>
-    <th></th>
-    <th>HEX</th>
-    <th>RGB</th>
-    <th>HSB</th>
-    <th>CMYK</th>
-  </tr>
-  <tr>
     <td>redLightest</td>
     <td>FAC8C8</td>
     <td>250 200 200</td>
@@ -221,13 +214,6 @@ Colors
     <td>43 5 5</td>
     <td>0 88 17</td>
     <td>55 77 69 80</td>
-  </tr>
-  <tr>
-    <th></th>
-    <th>HEX</th>
-    <th>RGB</th>
-    <th>HSB</th>
-    <th>CMYK</th>
   </tr>
   <tr>
     <td>greenLightest</td>
