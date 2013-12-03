@@ -1,7 +1,16 @@
-Primary Blue
+Primary Colors
 ===
 ![image](blue/blueDark.png)
+![image](red/redLight.png)
+![image](green/green.png)
 <table>
+  <tr>
+    <th></th>
+    <th>HEX</th>
+    <th>RGB</th>
+    <th>HSB</th>
+    <th>CMYK</th>
+  </tr>
   <tr>
     <td>blueDark</td>
     <td>004B64</td>
@@ -9,11 +18,6 @@ Primary Blue
     <td>195 100 39</td>
     <td>97 65 42 26</td>
   </tr>
-</table>
-Primary Red
-===
-![image](red/redLight.png)
-<table>
   <tr>
     <td>redLight</td>
     <td>C13737</td>
@@ -21,11 +25,6 @@ Primary Red
     <td>0 72 76</td>
     <td>17 92 84 6</td>
   </tr>
-</table>
-Primary Green
-===
-![image](green/green.png)
-<table>
   <tr>
     <td>greenLight</td>
     <td>37C137</td>
