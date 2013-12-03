@@ -30,28 +30,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>250</td>
-            <td>200</td>
-            <td>200</td>
+            <td> 250 </td>
+            <td> 200 </td>
+            <td> 200 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>20</td>
-            <td>98</td>
+            <td>  0 </td>
+            <td> 20 </td>
+            <td> 98 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>26</td>
-            <td>12</td>
-            <td>0</td>
+            <td>  0 </td>
+            <td> 26 </td>
+            <td> 12 </td>
+            <td>  0 </td>
           </tr>
         </table>
       </td>
@@ -68,28 +68,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>223</td>
-            <td>89</td>
-            <td>89</td>
+            <td> 223 </td>
+            <td>  89 </td>
+            <td>  89 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>60</td>
-            <td>87</td>
+            <td>  0 </td>
+            <td> 60 </td>
+            <td> 87 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>8</td>
-            <td>80</td>
-            <td>62</td>
-            <td>1</td>
+            <td>  8 </td>
+            <td> 80 </td>
+            <td> 62 </td>
+            <td>  1 </td>
           </tr>
         </table>
       </td>
@@ -106,28 +106,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>193</td>
-            <td>55</td>
-            <td>55</td>
+            <td> 193 </td>
+            <td>  55 </td>
+            <td>  55 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>72</td>
-            <td>76</td>
+            <td>  0 </td>
+            <td> 72 </td>
+            <td> 76 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>17</td>
-            <td>92</td>
-            <td>84</td>
-            <td>6</td>
+            <td> 17 </td>
+            <td> 92 </td>
+            <td> 84 </td>
+            <td>  6 </td>
           </tr>
         </table>
       </td>
@@ -144,28 +144,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>153</td>
-            <td>34</td>
-            <td>34</td>
+            <td> 153 </td>
+            <td>  34 </td>
+            <td>  34 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>78</td>
-            <td>60</td>
+            <td>  0 </td>
+            <td> 78 </td>
+            <td> 60 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>26</td>
-            <td>97</td>
-            <td>96</td>
-            <td>23</td>
+            <td> 26 </td>
+            <td> 97 </td>
+            <td> 96 </td>
+            <td> 23 </td>
           </tr>
         </table>
       </td>
@@ -182,28 +182,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>116</td>
-            <td>21</td>
-            <td>21</td>
+            <td> 116 </td>
+            <td>  21 </td>
+            <td>  21 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>82</td>
-            <td>45</td>
+            <td>  0 </td>
+            <td> 82 </td>
+            <td> 45 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>31</td>
-            <td>98</td>
-            <td>97</td>
-            <td>43</td>
+            <td> 31 </td>
+            <td> 98 </td>
+            <td> 97 </td>
+            <td> 43 </td>
           </tr>
         </table>
       </td>
@@ -220,28 +220,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>85</td>
-            <td>13</td>
-            <td>13</td>
+            <td> 85 </td>
+            <td> 13 </td>
+            <td> 13 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>85</td>
-            <td>33</td>
+            <td>  0 </td>
+            <td> 85 </td>
+            <td> 33 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>39</td>
-            <td>91</td>
-            <td>84</td>
-            <td>61</td>
+            <td> 39 </td>
+            <td> 91 </td>
+            <td> 84 </td>
+            <td> 61 </td>
           </tr>
         </table>
       </td>
@@ -258,28 +258,28 @@ Values
       <td>
         <table>
           <tr>
-            <td>43</td>
-            <td>5</td>
-            <td>5</td>
+            <td> 43 </td>
+            <td>  5 </td>
+            <td>  5 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>0</td>
-            <td>88</td>
-            <td>17</td>
+            <td>  0 </td>
+            <td> 88 </td>
+            <td> 17 </td>
           </tr>
         </table>
       </td>
       <td>
         <table>
           <tr>
-            <td>55</td>
-            <td>77</td>
-            <td>69</td>
-            <td>80</td>
+            <td> 55 </td>
+            <td> 77 </td>
+            <td> 69 </td>
+            <td> 80 </td>
           </tr>
         </table>
       </td>
