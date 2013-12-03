@@ -1,12 +1,12 @@
 Blue
 ===
-![image](blueDarkest.png)
-![image](blueDarker.png)
-![image](blueDark.png)
-![image](blue.png)
-![image](blueLight.png)
-![image](blueLighter.png)
 ![image](blueLightest.png)
+![image](blueLighter.png)
+![image](blueLight.png)
+![image](blue.png)
+![image](blueDark.png)
+![image](blueDarker.png)
+![image](blueDarkest.png)
 Values
 ===
 
