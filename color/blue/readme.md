@@ -1,10 +1,7 @@
 Blue
 ===
 ![image](blueDarkest.png)
-
-<span style="margin-top: -2em; color: white;">testing</span>
-
-<table style="width: 100%;">
+<table style="width: 100%; margin-top: -2em;">
     <tr>
         <td>Foo</td>
         <td>Doo</td>
