@@ -16,13 +16,13 @@ Logo
   </tr>
   <tr>
     <td>Light</td>
-    <td><img src="logo/build/horizontal_light.1.png"/></td>
-    <td><img src="logo/build/stacked_light.1.png"/></td>
+    <td><img src="logo/build/horizontal_dark.1.png"/></td>
+    <td><img src="logo/build/stacked_dark.1.png"/></td>
   </tr>
   <tr>
     <td>Dark</td>
-    <td><img src="logo/build/horizontal_dark.1.png"/></td>
-    <td><img src="logo/build/stacked_dark.1.png"/></td>
+    <td><img src="logo/build/horizontal_light.1.png"/></td>
+    <td><img src="logo/build/stacked_light.1.png"/></td>
   </tr>
 </table>
 
