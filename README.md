@@ -28,13 +28,6 @@ Logo
 
 Colors
 ---
-![image](color/blue/blueLightest.png)
-![image](color/blue/blueLighter.png)
-![image](color/blue/blueLight.png)
-![image](color/blue/blue.png)
-![image](color/blue/blueDark.png)
-![image](color/blue/blueDarker.png)
-![image](color/blue/blueDarkest.png)
 
 <table>
   <tr>
@@ -173,17 +166,6 @@ Colors
     <td>194 100 20</td>
     <td>93 70 56 63</td>
   </tr>
-</table>
-
-![image](color/red/redLightest.png)
-![image](color/red/redLighter.png)
-![image](color/red/redLight.png)
-![image](color/red/red.png)
-![image](color/red/redDark.png)
-![image](color/red/redDarker.png)
-![image](color/red/redDarkest.png)
-
-<table>
   <tr>
     <th></th>
     <th>HEX</th>
@@ -240,17 +222,6 @@ Colors
     <td>0 88 17</td>
     <td>55 77 69 80</td>
   </tr>
-</table>
-
-![image](color/green/greenLightest.png)
-![image](color/green/greenLighter.png)
-![image](color/green/greenLight.png)
-![image](color/green/green.png)
-![image](color/green/greenDark.png)
-![image](color/green/greenDarker.png)
-![image](color/green/greenDarkest.png)
-
-<table>
   <tr>
     <th></th>
     <th>HEX</th>
