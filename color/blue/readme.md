@@ -1,5 +1,14 @@
 Blue
 ===
+![image](blueDarkest.png)
+![image](blueDarker.png)
+![image](blueDark.png)
+![image](blue.png)
+![image](blueLight.png)
+![image](blueLighter.png)
+![image](blueLightest.png)
+Values
+===
 
 <table style="width: 100%; margin-top: -2em;">
     <tr>
@@ -19,12 +28,3 @@ Blue
       <td>93 70 56 63</td>
     </tr>
 </table>
-
-![image](blueDarkest.png)
-![image](blueDarker.png)
-![image](blueDark.png)
-![image](blue.png)
-![image](blueLight.png)
-![image](blueLighter.png)
-![image](blueLightest.png)
-hex
