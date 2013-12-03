@@ -69,8 +69,8 @@ Values
         <table>
           <tr>
             <td>223</td>
-            <td>&ensp;89</td>
-            <td>&ensp;89</td>
+            <td>&emsp;89</td>
+            <td>&emsp;89</td>
           </tr>
         </table>
       </td>
