@@ -24,7 +24,15 @@ Values
       <td>FAC8C8</td>
       <td>250 200 200</td>
       <td>0 20 98</td>
-      <td>85 18 7</td>
+      <td>
+        <table>
+          <tr>
+            <td>85</td>
+            <td>18</td>
+            <td>7</td>
+          </tr>
+        </table>
+      </td>
       <td>
         <table>
           <tr>
