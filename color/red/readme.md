@@ -21,9 +21,31 @@ Values
     </tr>
     <tr>
       <td>redLightest</td>
-      <td>FAC8C8</td>
-      <td>250 200 200</td>
-      <td>0 20 98</td>
+      <td>
+        <table>
+          <tr>
+            <td>FAC8C8</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>250</td>
+            <td>200</td>
+            <td>200</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>20</td>
+            <td>98</td>
+          </tr>
+        </table>
+      </td>
       <td>
         <table>
           <tr>
