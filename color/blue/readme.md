@@ -1,6 +1,14 @@
 Blue
 ===
 ![image](blueDarkest.png)
+
+<table>
+    <tr>
+        <td>Foo</td>
+        <td>Doo</td>
+    </tr>
+</table>
+
 ![image](blueDarker.png)
 ![image](blueDark.png)
 ![image](blue.png)
