@@ -12,7 +12,7 @@ Values
 
 <table style="width: 100%; margin-top: -2em;">
     <tr>
-      <th>Color</th>
+      <th></th>
       <th>HEX</th>
       <th>RGB</th>
       <th>HSB</th>
