@@ -58,7 +58,6 @@ Values
     </tr>
     <tr>
       <td>redLighter</td>
-      <td>DF5959</td>
       <td>
         <table>
           <tr>
