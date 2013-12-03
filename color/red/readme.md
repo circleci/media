@@ -20,7 +20,13 @@ Values
     </tr>
     <tr>
       <td>redLightest</td>
-      <td>FAC8C8</td>
+      <td>
+        <table>
+          <tr>
+            <td>FAC8C8</td>
+          </tr>
+        </table>
+      </td>
       <td>
         <table>
           <tr>
