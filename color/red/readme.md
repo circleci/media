@@ -58,14 +58,48 @@ Values
             <td>0</td>
           </tr>
         </table>
+      </td>
     </tr>
     <tr>
       <td>redLighter</td>
       <td>DF5959</td>
-      <td>223 89 89</td>
-      <td>0 60 87</td>
-      <td>56 53 29</td>
-      <td>8 80 62 1</td>
+      <td>
+        <table>
+          <tr>
+            <td>223</td>
+            <td>89</td>
+            <td>89</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>60</td>
+            <td>87</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>56</td>
+            <td>53</td>
+            <td>29</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>8</td>
+            <td>80</td>
+            <td>62</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>redLight</td>
