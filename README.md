@@ -1,4 +1,4 @@
-media
+CircleCI Media Assets
 =====
 
 Media files for marketing and integration projects
