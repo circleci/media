@@ -2,7 +2,7 @@ Blue
 ===
 ![image](blueDarkest.png)
 
-<table>
+<table style="width: 100%;">
     <tr>
         <td>Foo</td>
         <td>Doo</td>
