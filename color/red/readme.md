@@ -90,26 +90,85 @@ Values
     </tr>
     <tr>
       <td>redLight</td>
-      <td>C13737</td>
-      <td>193 55 55</td>
-      <td>0 72 76</td>
-      <td>45 55 34</td>
-      <td>17 92 84 6</td>
+      <td>
+        <table>
+          <tr>
+            <td>C13737</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>193</td>
+            <td>55</td>
+            <td>55</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>72</td>
+            <td>76</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>17</td>
+            <td>92</td>
+            <td>84</td>
+            <td>6</td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>red</td>
-      <td>992222</td>
-      <td>153 34 34</td>
-      <td>0 78 60</td>
-      <td>35 49 32</td>
-      <td>26 97 96 23</td>
+      <td>
+        <table>
+          <tr>
+            <td>992222</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>153</td>
+            <td>34</td>
+            <td>34</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>0</td>
+            <td>78</td>
+            <td>60</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>26</td>
+            <td>97</td>
+            <td>96</td>
+            <td>23</td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>redDark</td>
       <td>741515</td>
       <td>116 21 21</td>
       <td>0 82 45</td>
-      <td>25 41 27</td>
       <td>31 98 97 43</td>
     </tr>
     <tr>
@@ -117,7 +176,6 @@ Values
       <td>550D0D</td>
       <td>85 13 13</td>
       <td>0 85 33</td>
-      <td>17 33 21</td>
       <td>39 91 84 61</td>
     </tr>
     <tr>
@@ -125,7 +183,6 @@ Values
       <td>2B0505</td>
       <td>43 5 5</td>
       <td>0 88 17</td>
-      <td>6 19 7</td>
       <td>55 77 69 80</td>
     </tr>
 </table>
