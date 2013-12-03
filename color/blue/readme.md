@@ -1,1 +1,8 @@
-![image](01_007196_blue.png)
+![image](blueDarkest.png)
+![image](blueDarker.png)
+![image](blueDark.png)
+![image](blue.png)
+![image](blueLight.png)
+![image](blueLighter.png)
+![image](blueLightest.png)
+hex
