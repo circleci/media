@@ -31,6 +31,13 @@ Colors
 
 <table>
   <tr>
+    <th></th>
+    <th>Blue</th>
+    <th>Red</th>
+    <th>Green</th>
+  </tr>
+  <tr>
+    <td>Lightest</td>
     <td>
       <img src="color/blue/blueLightest.png"/>
     </td>
@@ -42,6 +49,7 @@ Colors
     </td>
   </tr>
   <tr>
+    <td>Lighter</td>
     <td>
       <img src="color/blue/blueLighter.png"/>
     </td>
@@ -53,6 +61,7 @@ Colors
     </td>
   </tr>
   <tr>
+    <td>Light</td>
     <td>
       <img src="color/blue/blueLight.png"/>
     </td>
@@ -64,6 +73,7 @@ Colors
     </td>
   </tr>
   <tr>
+    <td>Normal</td>
     <td>
       <img src="color/blue/blue.png"/>
     </td>
@@ -75,6 +85,7 @@ Colors
     </td>
   </tr>
   <tr>
+    <td>Dark</td>
     <td>
       <img src="color/blue/blueDark.png"/>
     </td>
@@ -86,6 +97,7 @@ Colors
     </td>
   </tr>
   <tr>
+    <td>Darker</td>
     <td>
       <img src="color/blue/blueDarker.png"/>
     </td>
@@ -97,6 +109,7 @@ Colors
     </td>
   </tr>
   <tr>
+    <td>Darkest</td>
     <td>
       <img src="color/blue/blueDarkest.png"/>
     </td>
