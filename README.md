@@ -9,21 +9,25 @@ Logo
 ---
 
 <table>
-  <tr>
-    <th></th>
-    <th>Horizontal</th>
-    <th>Stacked</th>
-  </tr>
-  <tr>
-    <td>Light</td>
-    <td><img src="logo/build/horizontal_dark.1.png"/></td>
-    <td><img src="logo/build/stacked_dark.1.png"/></td>
-  </tr>
-  <tr>
-    <td>Dark</td>
-    <td><img src="logo/build/horizontal_light.1.png"/></td>
-    <td><img src="logo/build/stacked_light.1.png"/></td>
-  </tr>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Horizontal</th>
+      <th>Stacked</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td><img src="logo/build/horizontal_dark.1.png"/></td>
+      <td><img src="logo/build/stacked_dark.1.png"/></td>
+    </tr>
+    <tr>
+      <td>Dark</td>
+      <td><img src="logo/build/horizontal_light.1.png"/></td>
+      <td><img src="logo/build/stacked_light.1.png"/></td>
+    </tr>
+  <tbody>
 </table>
 
 Colors
