@@ -1,7 +1,7 @@
 CircleCI Media Assets
 =====
 
-Media files for marketing and integration projects
+Media files for marketing and integration projects.
 
 Logo
 ---
