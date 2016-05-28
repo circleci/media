@@ -1,0 +1,10 @@
+deployment:
+  prod:
+    branch: master
+    commands:
+      - aws s3 sync ./color     s3://circle-cdn/media/color/     --delete
+      - aws s3 sync ./logo      s3://circle-cdn/media/logo/      --delete
+      - aws s3 sync ./presskit  s3://circle-cdn/media/presskit/  --delete
+      - aws s3 sync ./signature s3://circle-cdn/media/signature/ --delete
+      - aws s3 sync ./styles    s3://circle-cdn/media/styles/    --delete
+      - aws s3 sync ./wallpaper s3://circle-cdn/media/wallpaper/ --delete
